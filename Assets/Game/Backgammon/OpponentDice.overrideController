@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: OpponentDice
+  m_Controller: {fileID: 9100000, guid: e5f8cfcbb34760148a568149ff70f234, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400002, guid: 9df4e0317caa1984f9649bcf219eb277, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: b9c0b9cd023300749920849f43b08e55, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 9df4e0317caa1984f9649bcf219eb277, type: 3}
+    m_OverrideClip: {fileID: 7400002, guid: b9c0b9cd023300749920849f43b08e55, type: 3}

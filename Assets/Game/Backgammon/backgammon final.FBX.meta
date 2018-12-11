@@ -1,0 +1,237 @@
+fileFormatVersion: 2
+guid: 33736f74e068ada44bd7682d61e0248d
+timeCreated: 1514293156
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: bilbilak
+    100004: bilbilak001
+    100006: bilbilak002
+    100008: bilbilak003
+    100010: board
+    100012: checker034
+    100014: checker035
+    100016: checker036
+    100018: checker037
+    100020: checker038
+    100022: checker039
+    100024: checker040
+    100026: checker041
+    100028: checker042
+    100030: checker043
+    100032: checker044
+    100034: checker045
+    100036: checker046
+    100038: checker047
+    100040: checker048
+    100042: checker049
+    100044: checker050
+    100046: checker051
+    100048: checker052
+    100050: checker053
+    100052: checker054
+    100054: checker055
+    100056: checker056
+    100058: checker057
+    400000: //RootNode
+    400002: bilbilak
+    400004: bilbilak001
+    400006: bilbilak002
+    400008: bilbilak003
+    400010: board
+    400012: checker034
+    400014: checker035
+    400016: checker036
+    400018: checker037
+    400020: checker038
+    400022: checker039
+    400024: checker040
+    400026: checker041
+    400028: checker042
+    400030: checker043
+    400032: checker044
+    400034: checker045
+    400036: checker046
+    400038: checker047
+    400040: checker048
+    400042: checker049
+    400044: checker050
+    400046: checker051
+    400048: checker052
+    400050: checker053
+    400052: checker054
+    400054: checker055
+    400056: checker056
+    400058: checker057
+    2300000: bilbilak
+    2300002: bilbilak001
+    2300004: bilbilak002
+    2300006: bilbilak003
+    2300008: board
+    2300010: checker034
+    2300012: checker035
+    2300014: checker036
+    2300016: checker037
+    2300018: checker038
+    2300020: checker039
+    2300022: checker040
+    2300024: checker041
+    2300026: checker042
+    2300028: checker043
+    2300030: checker044
+    2300032: checker045
+    2300034: checker046
+    2300036: checker047
+    2300038: checker048
+    2300040: checker049
+    2300042: checker050
+    2300044: checker051
+    2300046: checker052
+    2300048: checker053
+    2300050: checker054
+    2300052: checker055
+    2300054: checker056
+    2300056: checker057
+    3300000: bilbilak
+    3300002: bilbilak001
+    3300004: bilbilak002
+    3300006: bilbilak003
+    3300008: board
+    3300010: checker034
+    3300012: checker035
+    3300014: checker036
+    3300016: checker037
+    3300018: checker038
+    3300020: checker039
+    3300022: checker040
+    3300024: checker041
+    3300026: checker042
+    3300028: checker043
+    3300030: checker044
+    3300032: checker045
+    3300034: checker046
+    3300036: checker047
+    3300038: checker048
+    3300040: checker049
+    3300042: checker050
+    3300044: checker051
+    3300046: checker052
+    3300048: checker053
+    3300050: checker054
+    3300052: checker055
+    3300054: checker056
+    3300056: checker057
+    4300000: board
+    4300002: bilbilak
+    4300004: checker034
+    4300006: checker035
+    4300008: checker036
+    4300010: checker037
+    4300012: checker038
+    4300014: checker039
+    4300016: bilbilak001
+    4300018: checker040
+    4300020: checker041
+    4300022: checker042
+    4300024: checker043
+    4300026: checker044
+    4300028: checker045
+    4300030: bilbilak002
+    4300032: bilbilak003
+    4300034: checker046
+    4300036: checker047
+    4300038: checker048
+    4300040: checker049
+    4300042: checker050
+    4300044: checker051
+    4300046: checker052
+    4300048: checker053
+    4300050: checker054
+    4300052: checker055
+    4300054: checker056
+    4300056: checker057
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 05 - Default
+    second: {fileID: 2100000, guid: d2c368214de76184c812d09ba9ae0738, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
